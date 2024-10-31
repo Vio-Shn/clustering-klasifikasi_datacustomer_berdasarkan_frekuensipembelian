@@ -74,4 +74,3 @@ Algoritma yang digunakan dan hasil evaluasi sebagai berikut:
 ---
 
 ### Berdasarkan hasil clustering dan klasifikasi ini perusahaan bisa mengambil keputusan terkait pola pembelian dan meningkatkan tingkat penjualan dari perusahaan dengan metode-metode pengelompokan dan klasifikasi tipe pembeli. :wink:
-
